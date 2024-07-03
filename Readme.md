@@ -62,9 +62,9 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 
 ## Outlines of Week_2 :
 
-1. **Basic Understanding of Technology**
-2. **Introduction to React Router**
-3. **Setting up React Routing**
-4. **Backend Development and API Integration**
-5. **Understanding State Management and Advanced Hooks**
+1. Basic Understanding of Technology
+2. Introduction to React Router
+3. Setting up React Routing
+4. Backend Development and API Integration
+5. Understanding State Management and Advanced Hooks
 
