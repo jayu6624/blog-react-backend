@@ -24,10 +24,10 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 
 ## Day 1: Orientation and Initial Tasks
 
-•    Understood basic technology concepts
-•    Created a frontend form
-•    Implemented backend functionality for the form
-•    Connected the form to a database
+#•       Understood basic technology concepts
+•       Created a frontend form
+•       Implemented backend functionality for the form
+•       Connected the form to a database
 
 ## Day 2: Introduction to New Tools
 
