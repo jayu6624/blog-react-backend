@@ -18,7 +18,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 
 ## ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/510f2fa7-4caa-4c25-bbfe-133b023acc49) Week 1
 
-# Outlines of Week_1 :
+## Outlines of Week_1 :
 
 1. Basic Understanding of Technology
 
@@ -59,3 +59,12 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 • Implemented auto-generation of random passwords with a specified range.
 
 ![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20192155.png)
+
+## Outlines of Week_2 :
+
+1. **Basic Understanding of Technology**
+2. **Introduction to React Router**
+3. **Setting up React Routing**
+4. **Backend Development and API Integration**
+5. **Understanding State Management and Advanced Hooks**
+
