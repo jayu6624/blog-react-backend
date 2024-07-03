@@ -57,3 +57,26 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 • Implemented auto-generation of random passwords with a specified range.
 
 
+### Day-1: Learning the basics of Python.
+
+
+•	I began learning Python from YouTube tutorials.
+
+•	Following that, I practiced basic Python coding in VS Code for reference.
+
+•	Additionally, I received guidance on Python from a member of the company's team.
+
+### Day-2: Getting info about django.
+
+
+•	I began learning django from YouTube tutorials.
+
+•	In company guidance, I received training specifically focused on Django, a framework used extensively within our projects. This guidance helped me delve deeper into Python development, particularly in the context of web applications.
+
+### Day-3: Learning the django-framework.
+
+
+•	I began learning django-framework from YouTube tutorials.
+
+•	I initiated the project as a small-scale endeavor.
+ 
