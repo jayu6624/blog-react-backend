@@ -104,3 +104,6 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 - Implement context in the editor
 - Explore advanced hooks
 - Continue backend development
+
+
+![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20192155.png)
