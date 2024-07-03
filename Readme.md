@@ -55,3 +55,5 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 • Added a feature to copy text.
 
 • Implemented auto-generation of random passwords with a specified range.
+
+![image](https://github.com/jayu6624/)
