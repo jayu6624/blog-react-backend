@@ -44,7 +44,8 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 - Added a feature to copy text.
 - Implemented auto-generation of random passwords with a specified range.
 
-![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20192155.png)
+<img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20192155.png" width="400" height="250" />
+
 ---
 
 ## Outlines of Week_2 :
@@ -102,10 +103,12 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 - Explore advanced hooks
 - Continue backend development
 
-![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225144.png)
+<img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225144.png" width="400" height="250" />
+
 ---
 
-![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225211.png)
+<img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225211.png" width="400" height="250" />
+
 ---
 
-![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225825.png)
+<img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225825.png" width="400" height="250" />
