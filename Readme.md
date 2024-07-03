@@ -16,30 +16,44 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 ##  ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/510f2fa7-4caa-4c25-bbfe-133b023acc49) Week 1
 
 # Outlines of Week_1 :
+
 1. Basic Understanding of Technology
+
 2. Undetstand a basic of HTMl/CSS and JavaScript
+
 3. Introdcution to React-js
+
 4. Developed a Password Generator
 
 
 ### Day 1: Orientation and Initial Tasks.
 
 •       Understood basic technology concepts.
+
 •       Created a frontend form.
+
 •       Implemented backend functionality for the form.
+
 •       Connected the form to a database.
 
 ### Day 2: Introduction to New Tools.
 
 • Learned about React.js .
+
 • Read documentation and installed React.
+
 • Created a simple Navbar using React.
+
 • Installed Tailwind CSS.
+
 ### Day 3: Enhancing the Project.
 
 • Applied Tailwind CSS for better UI.
+
 • Developed a Password Generator frontend.
+
 • Added a feature to copy text.
+
 • Implemented auto-generation of random passwords with a specified range.
 
 
