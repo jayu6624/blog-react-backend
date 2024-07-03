@@ -68,3 +68,39 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 4. Backend Development and API Integration
 5. Understanding State Management and Advanced Hooks
 
+# Week 1: Daily Activities
+
+## Day 1: Monday, 20/05/2024
+### Basic Understanding of Technology
+- Create UI for Password Generator
+- Add features for special characters and numbers
+- Learn `useRef`, `useEffect`, and other hooks
+- Implement hooks in the project
+
+## Day 2: Tuesday, 21/05/2024
+### Introduction to React Router
+- Understand React Router
+- Install `react-router-dom`
+- Explore routing implementation methods
+- Read routing documentation
+
+## Day 3: Wednesday, 22/05/2024
+### Setting up React Routing
+- Initiate project and set up environment for react-routing
+- Create frontend part of the website
+- Add navigation using React Routing
+- Link navigation parts with routers
+
+## Day 4: Thursday, 23/05/2024
+### Backend Development and API Integration
+- Create backend for data fetching
+- Fix API errors
+- Debug backend functions
+- Develop frontend part of the website
+
+## Day 5: Friday, 24/05/2024
+### Understanding State Management and Advanced Hooks
+- Read documentation on Context API and Redux Toolkit
+- Implement context in the editor
+- Explore advanced hooks
+- Continue backend development
