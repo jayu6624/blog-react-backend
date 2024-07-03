@@ -24,22 +24,22 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 
 ## Day 1: Orientation and Initial Tasks
 
-Understood basic technology concepts
-Created a frontend form
-Implemented backend functionality for the form
-Connected the form to a database
+•    Understood basic technology concepts
+•    Created a frontend form
+•    Implemented backend functionality for the form
+•    Connected the form to a database
 
 ## Day 2: Introduction to New Tools
 
-Learned about React.js
-Read documentation and installed React
-Created a simple Navbar using React
-Installed Tailwind CSS
+• Learned about React.js
+• Read documentation and installed React
+• Created a simple Navbar using React
+• Installed Tailwind CSS
 ## Day 3: Enhancing the Project
 
-Applied Tailwind CSS for better UI
-Developed a Password Generator frontend
-Added a feature to copy text
-Implemented auto-generation of random passwords with a specified range
+• Applied Tailwind CSS for better UI
+• Developed a Password Generator frontend
+• Added a feature to copy text
+•nImplemented auto-generation of random passwords with a specified range
 
 
