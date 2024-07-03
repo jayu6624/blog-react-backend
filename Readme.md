@@ -119,4 +119,4 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 
 ![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225211.png)
 
-![image](![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225144.png))
+![image](https://github.com/jayu6624/blog-react-backend/blob/main/image/image.png)
