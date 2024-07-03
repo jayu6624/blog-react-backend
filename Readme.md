@@ -8,7 +8,42 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 
 •         The journey commenced with an introductory session led by Devangi Chauhan, the HR Officer at Elite InfoTech. During this session, new interns, including myself, received an overview of the company's core projects and values, emphasizing Elite InfoTech's dedication to technological excellence and creativity.
 
-•        The 4-week internship program at Elite InfoTech is designed to provide hands-on experience and deep insights into the tech industry.
+•        The 5-week internship program at Elite InfoTech is designed to provide hands-on experience and deep insights into the tech industry.
+
+
+# Start Of Internship
+
+##  ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/510f2fa7-4caa-4c25-bbfe-133b023acc49) Week 1
+
+# Outlines of Week_1 :
+1. Basic Understanding of Technology
+2. Undetstand a basic of HTMl/CSS and JavaScript
+3. Introdcution to React-js
+4. Developed a Password Generator
+
+
+## Day 1
+
+Basic understanding of technology
+Created a form with frontend
+Implemented a backend for the form
+Connected the form with a database
+
+## Day 2
+
+Introduction to React.js
+Read documentation and installed React
+Created a simple Navbar with React
+Installed Tailwind CSS
+
+## Day 3
+
+Added Tailwind CSS for better UI
+Created a frontend for Password Generator
+Added a feature to copy text
+Added a feature to auto-generate random passwords with a specified range
+
+
 
 
 
