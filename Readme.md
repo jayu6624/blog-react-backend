@@ -234,7 +234,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 ---
 
 <p align="center">
-  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/read%20mode.png" width="400" height="250" />
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/read%20mode.png" width="600" height="250" />
 </p>
 
 ---
