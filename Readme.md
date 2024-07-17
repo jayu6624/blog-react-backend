@@ -45,7 +45,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 - Implemented auto-generation of random passwords with a specified range.
 
 <p align="center">
-  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20192155.png" width="400" height="250" />
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20192155.png" width="600" height="250" />
 </p>
 
 ---
@@ -96,19 +96,19 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 - Continue backend development
 
 <p align="center">
-  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225144.png" width="400" height="250" />
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225144.png" width="600" height="250" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225211.png" width="400" height="250" />
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225211.png" width="600" height="250" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225825.png" width="400" height="250" />
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/image/Screenshot%202024-07-03%20225825.png" width="600" height="250" />
 </p>
 
 ## ![image](https://github.com/prem028/summerinternship2024_22IT127/assets/121212405/510f2fa7-4caa-4c25-bbfe-133b023acc49) Week 3: Outlines
@@ -197,4 +197,45 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project hig
 - Connected with the database
 - Fixed errors for login and signup pages
 - Included slider from react-slick
+
+---
+  <p align="center">
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/image.png" width="600" height="250" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/contactus.png" width="600" height="250" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/signup.png" width="600" height="250" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/login.png" width="600" height="250" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/blog%20list.png" width="600" height="250" />
+</p>
+
+---
+<p align="center">
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/blog%20creation.png" width="600" height="250" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/jayu6624/blog-react-backend/blob/main/newimage/read%20mode.png" width="400" height="250" />
+</p>
+
+---
 
